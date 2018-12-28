@@ -10,7 +10,7 @@ Some implementations were tested to find problem solutions and subsequently disc
 
 ##### Objective of PhotoGlue
 
-The PhotoGlue idea comes from the necessity of a program that would use the considered optimization problem implementation. The PhotoGlue aim is to create some collages of some photos which are selected by the user. In this case, the elements of the optimization problem are the photos and the rectangular space are a background image which is chosen by the user.
+The PhotoGlue idea comes from the necessity of a program that would use the considered optimization problem implementation. The PhotoGlue aim is to create collages of some photos which are selected by the user. In this case, the elements of the optimization problem are the photos and the rectangular space are a background image which is chosen by the user.
 
 ###### For more informations about how to use PhotoGlue, it is recommended to see the file "PhotoGlue-Instructions For Use.odp".
 
