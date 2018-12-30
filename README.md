@@ -30,4 +30,4 @@ The following packages are needed to use PhotoGlue:
 
 ##### Important notes
 
-The Operating System used for the project development is Ubuntu. If you want to use the application on an other Operating System(like Windows), you need to modify the files path in the project code: the path inserting policies are different depending on the used Operating System.
+The Operating System used for the project development is Ubuntu. If the user wants to use the application on an other Operating System(like Windows), he needs to modify the files path in the project code: the path inserting policies are different depending on the used Operating System.
