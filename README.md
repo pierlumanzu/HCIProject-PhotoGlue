@@ -27,3 +27,7 @@ The following packages are needed to use PhotoGlue:
 - PYQT (5.9.2);
 - PILLOW(5.3.0);
 - the needed packages for the optimization algorithm.
+
+##### Important notes
+
+The Operating System used for the project development is Ubuntu. If you want to use the application on an other Operating System(like Windows), you need to modify the file paths in the project code: the policies are different depending on the Operating System used.
