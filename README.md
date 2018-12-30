@@ -16,7 +16,7 @@ The PhotoGlue idea comes from the necessity of a program that would use the cons
 
 ##### Packages Installation
 
-The following packages are needed to use the optimization algorithm (in the brackets there is the used version of each package in this project):
+The following packages are needed to use the optimization algorithm which is in the file "OptimizationProblem/MilpCplex.py" (in the brackets there is the used version of each package in this project):
 
 - PYTHON (3.6.6);
 - CPLEX (Community Edition 12.8);
