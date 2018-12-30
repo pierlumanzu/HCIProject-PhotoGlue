@@ -18,12 +18,12 @@ The PhotoGlue idea comes from the necessity of a program that would use the cons
 
 The following packages are needed to use the optimization algorithm (in the brackets there is the used version of each package in this project):
 
+- PYTHON (3.6.6);
 - CPLEX (Community Edition 12.8);
 - NUMPY (1.15.4).
 
 The following packages are needed to use PhotoGlue:
 
-- PYTHON (3.6.6);
 - PYQT (5.9.2);
 - PILLOW(5.3.0);
 - the needed packages for the optimization algorithm.
