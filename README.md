@@ -1,5 +1,5 @@
 # HCI Project-PhotoGlue
-### Program based on a MILP for the arrangement of rectangular elements on a rectangular space, taking into account the elements aspect ratio.
+### Program created through Pyqt5 and based on a MILP for the arrangement of rectangular elements on a rectangular space, taking into account the elements aspect ratio.
 
 ##### Objective of this Project
 
