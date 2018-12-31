@@ -6,7 +6,7 @@
 The project objective is the study of an optimization problem. This latter one is the collocation of elements on a rectangular space: the elements must fill the maximum area on the space, respecting specified constraints based on the elements number, the characteristics of the rectangular background, the initial dimensions and the importance of elements.
 Some implementations were tested to find problem solutions and subsequently discarded because of inconsistent or non optimal results. At the end, an implementation which considers the aspect ratio of each element and keeps it unchanged was chosen among many others. The reason is that this implementation let the user to find a good solution in few seconds. In addition, the user can decide the execution time of the algorithm, in order to find better solution, and he can also choose among more than one solutions provided by the implementation.
 
-###### For more informations about the MILP, it is recommended to read the file "MILP Relation.pdf".
+###### For more informations about the MILP, it is recommended to read the file "MILP-Relation.pdf".
 
 ##### Objective of PhotoGlue
 
