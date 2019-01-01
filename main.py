@@ -1,8 +1,8 @@
 from PyQt5.QtWidgets import QApplication
 import sys
-from PhotoApp import PhotoApp
+from PhotoGlue import PhotoGlue
 
 app = QApplication(sys.argv)
-window = PhotoApp()
+window = PhotoGlue()
 window.show()
 sys.exit(app.exec_())
