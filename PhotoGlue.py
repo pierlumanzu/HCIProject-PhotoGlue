@@ -113,10 +113,10 @@ class PhotoGlue(QMainWindow):
                                 self.startProgressBarandCollageWindow()
                         else:
                             self.ui.statusBar.setStyleSheet("color:red;")
-                            self.ui.statusBar.showMessage("Please choice between a background color and a background gradient.")
+                            self.ui.statusBar.showMessage("Please choose between a background color and a background gradient.")
                 else:
                     self.ui.statusBar.setStyleSheet("color:red;")
-                    self.ui.statusBar.showMessage("Please choice between a background image and a custom background.")
+                    self.ui.statusBar.showMessage("Please choose between a background image and a custom background.")
         else:
             self.ui.statusBar.setStyleSheet("color:red;")
             self.ui.statusBar.showMessage("Please select at least two photos from a directory path. Number of selected Photos (min 2-max 15): {}".format(self.countPhotos.value))
